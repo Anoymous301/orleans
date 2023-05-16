@@ -1,0 +1,16 @@
+{
+  "student": [
+    {
+      "name": "jester z. Orleans",
+      "age": 23,
+      "quote": "The lord is my shepherd i shall not want."
+    }
+    ],
+  "section": [
+    {
+      "section": "BSIT - 3b",
+      "code": "T230",
+      "email": "1801103067@student.buksu.edu.ph"
+    }
+  ]
+}
